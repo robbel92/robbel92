@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGliYzVmNTJ2aGMxbmRkMjF1bnRnZmNwOGVwNnF3YW0xN2Vndzh2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <br>
   <a href="https://www.linkedin.com/in/robert-belenguer-developer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,6 +14,8 @@ As a Junior Full Stack Developer, I'm excited to showcase my strong grounding in
 My passion for honing my skills is unwavering, and I'm genuinely eager to contribute to the exciting realm of dynamic web application creation. With proficiency across a spectrum of programming languages, frameworks, and databases, I not only aspire to make meaningful contributions but also to bring an infusion of optimism, empathy, and a flexible attitude towards embracing changes.
 
 I'm committed to the journey of continuous learning, remaining up-to-date with industry best practices, and embracing emerging technologies. Your consideration means a lot to me, and I'm looking forward to the opportunity to grow and collaborate with a team that shares my enthusiasm and dedication.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGliYzVmNTJ2aGMxbmRkMjF1bnRnZmNwOGVwNnF3YW0xN2Vndzh2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
