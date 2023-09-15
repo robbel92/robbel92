@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" />
   <br>
   <a href="https://www.linkedin.com/in/robert-belenguer-developer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
