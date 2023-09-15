@@ -10,10 +10,7 @@
 
 ### :man_technologist: About Me :
 
-As a Junior Full Stack Developer, I'm excited to showcase my strong grounding in both front-end and back-end development.
-My passion for honing my skills is unwavering, and I'm genuinely eager to contribute to the exciting realm of dynamic web application creation. With proficiency across a spectrum of programming languages, frameworks, and databases, I not only aspire to make meaningful contributions but also to bring an infusion of optimism, empathy, and a flexible attitude towards embracing changes.
-
-I'm committed to the journey of continuous learning, remaining up-to-date with industry best practices, and embracing emerging technologies. Your consideration means a lot to me, and I'm looking forward to the opportunity to grow and collaborate with a team that shares my enthusiasm and dedication.
+I'm Robert, a dedicated Full Stack developer with a strong background in web development. My expertise includes TypeScript, React, SASS, Styled Components, Node.js, Express, and MongoDB, where I emphasize creating visually appealing and user-centric interfaces, while prioritizing accessibility and SEO principles. I'm experienced in developing and optimizing APIs, focusing on scalability and code quality. I'm adaptable and enjoy exploring new technologies, and I'm well-versed in Agile and SCRUM methodologies. On a personal note, I'm a sociable and adaptable individual, with a diverse professional background that has honed my problem-solving and communication skills. I'm also passionate about continuous learning and have a knack for quickly picking up new technologies.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGliYzVmNTJ2aGMxbmRkMjF1bnRnZmNwOGVwNnF3YW0xN2Vndzh2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
